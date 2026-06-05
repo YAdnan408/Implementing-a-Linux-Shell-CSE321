@@ -11,7 +11,7 @@
 
 #define inMaxT 1000//max number of input statement
 #define arguMaxT 65  //taken argument
-#define szHis 200 //size of history declaration
+#define szHis 250 //size of history declaration
 char *forhistory[szHis];  //here, history=forhistory to execute in the promt exactly
 int totalHisCount=0;
 bool varEXIT=false;
